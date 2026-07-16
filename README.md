@@ -81,7 +81,8 @@ Este repositorio representa el inicio del proyecto y servirá como base para el 
 
 ## Informes
 
-![Informes](assets/screenshots/informes.png)
+![Informes](assets/screenshots/informes1.png)
+![Informes](assets/screenshots/informes2.png)
 
 ---
 
