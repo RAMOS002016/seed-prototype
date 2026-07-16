@@ -136,7 +136,7 @@ Este repositorio representa el inicio del proyecto y servirá como base para el 
 
 **Esteban Ramos**
 
-Software Engineering Student of Politecnico Grancolombiano
+Software Engineering Student of the University Politecnico Grancolombiano
 
 Founder of **Future Forge Technologies**
 
