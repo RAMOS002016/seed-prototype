@@ -40,6 +40,14 @@ Este repositorio representa el inicio del proyecto y servirá como base para el 
 
 ---
 
+## 🎨 Identidad visual
+
+- ⏳ Logo: En desarrollo
+- ⏳ Banner: En desarrollo
+- 🎯 Objetivo: Crear una identidad visual profesional para SEED como producto de Future Forge Technologies. 
+
+---
+
 # ✨ Funcionalidades implementadas
 
 - 📊 Dashboard interactivo
