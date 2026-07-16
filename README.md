@@ -138,8 +138,4 @@ Founder of **Future Forge Technologies**
 
 Este repositorio corresponde al primer prototipo funcional de SEED y se publica con fines de demostración y portafolio.
 
-<<<<<<< HEAD
 © 2026 Future Forge Technologies. Todos los derechos reservados.
-=======
-© 2026 Future Forge Technologies. Todos los derechos reservados.
->>>>>>> 8e51a01 (Actualizar README profesional)
